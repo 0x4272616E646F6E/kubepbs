@@ -1,0 +1,8 @@
+## Append samples of your project ##
+resources:
+- backup_v1alpha1_backuppolicy.yaml
+- backup_v1alpha1_backuprun.yaml
+- backup_v1alpha1_restorerequest.yaml
+- backup_v1alpha1_backuprepository.yaml
+- backup_v1alpha1_backupschedule.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples
